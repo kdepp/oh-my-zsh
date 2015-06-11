@@ -14,7 +14,8 @@ alias f7="f 7"
 alias f8="f 8"
 alias f9="f 9"
 
-alias host="sudo vi /etc/hosts"
+alias host="~/host.bash"
+alias use="~/usehost.bash"
 
 export EDITOR=vim
 setopt AUTO_CD
